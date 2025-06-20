@@ -1,0 +1,48 @@
+{
+  "hosts": [
+    {
+      "id": 0,
+      "name": "Musikverein Langenau",
+      "url": "https://musikverein-langenau.de",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRovNAatPxIH2SonX7EQrhBfj-8LDoQqNZ0HQ&s"
+    },
+    {
+      "id": 1,
+      "name": "Musikverein Oberelchingen",
+      "url": "https://www.mv-oberelchingen.de",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-AOvn-gUN7drbxfKosXXXnfo4NSVEbatqHQ&s"
+    }
+  ],
+  "events": [
+    {
+      "id": 1,
+      "creation_date": "2025-06-16T00:00:00Z",
+      "event_image": "https://www.donau3fm.de/storage/thumbs/1275x/bpmp67c8ryc1i.webp",
+      "title": "Klangenau",
+      "event_start": "2025-07-11T18:00:00Z",
+      "event_end": "2025-07-12T22:00:00Z",
+      "event_location": "Langenau",
+      "event_description": null,
+      "event_url": "https://musikverein-langenau.de/index.php/100-jahre-mvl/klangenau",
+      "event_host": 0,
+      "coordinates": {
+        "latitude": 48.49696,
+        "longitude": 10.11952
+      }
+    },
+    {
+      "id": 2,
+      "creation_date": "2025-06-20T00:00:00Z",
+      "title": "Turmfest",
+      "event_start": "2025-07-29T9:30:00Z",
+      "event_end": "2025-07-29T11:30:00Z",
+      "event_location": "Langenau Kirchplatz Martinskirche",
+      "event_description": null,
+      "event_host": 0,
+      "coordinates": {
+        "latitude": 48.4966728,
+        "longitude": 10.1198464
+      }
+    }
+  ]
+}
